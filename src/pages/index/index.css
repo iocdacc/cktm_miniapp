@@ -1,0 +1,9 @@
+.g-box-main{margin-bottom:20rpx;}
+.m-box{overflow:auto;position:fixed;bottom:-650rpx;left:0;right:0;margin:0 20rpx;height:500rpx;background-color:white;border-radius:20rpx;padding:25rpx 20rpx;box-shadow:rgba(0,0,0,.2) 0 1rpx 5rpx 0rpx;transition:all 1s;}
+.m-box-tran{bottom:20rpx;transition:all .5s;}
+.m-box .img{height:300rpx;width:100%;overflow:hidden;}
+.m-box .title,.m-box .details-title{font-weight:bold;}
+.m-box .tel{font-size:34rpx;color:#7d7d7d;}
+.m-box .tel .phoneNumber{font-size:34rpx;color:#4f8abb;display: inline;}
+.m-box .details .details-content{margin-top:20rpx;font-size:34rpx;}
+.m-reset{padding: 20rpx 20rpx 22rpx 20rpx;border:1px solid #b3b3b3;border-radius:5rpx;position:fixed;top:20rpx;left:20rpx;background-color: white;box-shadow:rgba(0,0,0,.2) 0 1rpx 5rpx 0rpx;}

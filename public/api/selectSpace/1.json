@@ -1,0 +1,12 @@
+{
+  "msg": "success",
+  "code": 0,
+  "FishInfoEntity": {
+    "fid": 1,
+    "name": "农家好欢乐钓鱼基地",
+    "details": "这座长窄型的湖泊是鲇鱼钓客的梦幻钓点，因为鲇鱼是湖中数量最多的鱼类，使它无疑成为跳马镇中鲇鱼钓客的最佳选择。",
+    "url": "http://p1.diaoyu.com/UF/E9/5B/9129c6464874c7f1361543447681b6ff_small.jpg",
+    "tel": "18684569696",
+    "del": "1"
+  }
+}

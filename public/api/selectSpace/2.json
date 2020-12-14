@@ -1,0 +1,12 @@
+{
+  "msg": "success",
+  "code": 0,
+  "FishInfoEntity": {
+    "fid": 2,
+    "name": "跳马钓鱼民宿",
+    "details": "这座湖相当适合小孩钓鱼，湖内有许多体型不大的鱼类，如河鲈、鲇鱼及翻车鱼等，通常鱼量都相当高，使得这里成为一家大小一整天放松的好地方。",
+    "url": "https://poi-pic.cdn.bcebos.com/ad8566c4e20894659fbedd29db7ec64c.jpg",
+    "tel": "18687459898",
+    "del": "1"
+  }
+}
